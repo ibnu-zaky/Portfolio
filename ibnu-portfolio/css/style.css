@@ -269,7 +269,7 @@ a:focus {
   margin-bottom: 45px;
   padding: 120px 0 0 0;
   overflow: initial;
-  background: url(../img/hero-bg.jpg);
+  background: url(../img/Ibnu-Lrt.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -342,10 +342,10 @@ a:focus {
 }
 
 .hero .hero-btn .btn:hover {
-  color: #000;
+  color: #fff;
   background: transparent;
   box-shadow: inset 0 0 0 0 #000;
-  border-color: #000;
+  border-color: #fff;
 }
 
 .hero .hero-btn .btn:first-child {
